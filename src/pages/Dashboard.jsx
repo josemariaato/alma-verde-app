@@ -8,7 +8,7 @@ export default function Dashboard() {
       <aside className="w-64 bg-white shadow-lg p-4 flex flex-col justify-between">
         <div>
           <div className="flex items-center mb-6">
-            <img src="/logo.png" alt="Logo" className="w-10 h-10 mr-2" />
+            <img src="/logo192.png" alt="Logo" className="w-10 h-10 mr-2" />
             <h2 className="text-xl font-bold text-green-700">ALMA VERDE</h2>
           </div>
           <nav className="flex flex-col gap-4">
@@ -32,7 +32,7 @@ export default function Dashboard() {
       {/* Main content */}
       <main className="flex-1 p-8 overflow-y-auto relative">
         <img
-          src="/logo.png"
+          src="/logo192.png"
           alt="Logo Alma Verde"
           className="absolute opacity-5 -z-10 w-96 bottom-10 right-10"
         />
